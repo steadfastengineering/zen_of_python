@@ -1,5 +1,5 @@
 # zen_of_python
-The Zen of Python, by Tim Peters, an wise Easter egg inside python.
+The Zen of Python, by Tim Peters, a wise Easter egg inside python.
 ```python
 import this
 ```
